@@ -2,15 +2,37 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: Operating System
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2021 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: UNIX-style OS with scheduler, file system, text editor and calculator. (C, Assembly)
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: Quote Android App and Quote Twitter Bot
   role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  duration: 2021 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: An android App which shows a random quote every time with text to speech functionality. And a Twitter Bot tweeting an inspirational quote every hour. (ReactNative, AWS Lambda)
+
+# jazznotes.io
+- project: IGNOU Student Alumni Network
+  role: Founder & Primary Developer
+  duration: 2021 &mdash; Present
+  # url: "#"
+  description: A web application connecting IGNOU Students and Alumni. (React, NodeJS, MongoDB)
+
+# jazznotes.io
+- project: IGNOU Static Data Extractor
+  role: Founder & Primary Developer
+  duration: 2021 &mdash; Present
+  # url: "#"
+  description: A python bot to extract all the information and download study material, question papers and assignments  from various IGNOU websites. (Python)
+
+# jazznotes.io
+- project: Snake Game with Bots
+  role: Founder & Primary Developer
+  duration: 2021 &mdash; Present
+  # url: "#"
+  description: A snake game played by various bots. (HTML, CSS JavaScript)
+
